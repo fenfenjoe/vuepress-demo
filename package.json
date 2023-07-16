@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/fenfenjoe/vuepress-demo#readme",
   "dependencies": {
-    "vue-template-compiler": "^2.7.14"
+    "vue-template-compiler": "^2.7.14",
+    "vuepress": "^1.9.9"
   }
 }
